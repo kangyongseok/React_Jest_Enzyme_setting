@@ -83,7 +83,7 @@ configure({ adapter: new Adapter() });
 
 
 ### Jest Test code Func
-[자주쓰이는 함수 정리](https://www.daleseo.com/jest-basic/)
-[비동기테스트](https://www.daleseo.com/jest-async/)
-[mocking기법](https://www.daleseo.com/jest-fn-spy-on/)
-[jest cheatsheet](https://devhints.io/jest)
+[자주쓰이는 함수 정리](https://www.daleseo.com/jest-basic/)  
+[비동기테스트](https://www.daleseo.com/jest-async/)  
+[mocking기법](https://www.daleseo.com/jest-fn-spy-on/)  
+[jest cheatsheet](https://devhints.io/jest)  
