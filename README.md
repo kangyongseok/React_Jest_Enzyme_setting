@@ -87,3 +87,8 @@ configure({ adapter: new Adapter() });
 [비동기테스트](https://www.daleseo.com/jest-async/)  
 [mocking기법](https://www.daleseo.com/jest-fn-spy-on/)  
 [jest cheatsheet](https://devhints.io/jest)  
+[TOASTMEETUP 블로그글](https://meetup.toast.com/posts/180)
+
+
+** setupTests.js 를 수정해서 이제 테스트폴더마다 import {mount, shallow, render} 랑 import React from 'react' 따로 안해줘도됩니다.
+글로벌로 동작하게 설정했습니다.
