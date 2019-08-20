@@ -27,8 +27,8 @@ Enzyme 의 API 는 jQuery API 와 유사합니다.
 // package.json
 "script": {
 ....
-"test": "NODE_ENV=test jest --watch", // 변경사항만 감지
-"test:all": "NODE_ENV=test jest --watchAll" // 변경이있을때 항상 전체 실행
+"test": "NODE_ENV=test jest --watch --verbose", // 변경사항만 감지
+"test:all": "NODE_ENV=test jest --watchAll --verbose" // 변경이있을때 항상 전체 실행
 }
 ```
 [추가옵션](https://jestjs.io/docs/en/cli.html#coverage)
